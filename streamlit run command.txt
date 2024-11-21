@@ -1,0 +1,1 @@
+streamlit run "C:\Users\suman\OneDrive\Desktop\Assignments\My Resume\Final_Project\Streamlit_files\temp.py"
